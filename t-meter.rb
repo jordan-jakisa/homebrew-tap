@@ -1,9 +1,9 @@
 class TMeter < Formula
   desc "A terminal-based day progress bar showing elapsed time and user markers"
   homepage "https://github.com/jordan-jakisa/t-meter"
-  url "https://github.com/jordan-jakisa/t-meter/releases/download/v0.3.2/t-meter-0.3.2-x86_64-apple-darwin.tar.gz"
-  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  version "0.3.2"
+  url "https://github.com/jordan-jakisa/t-meter/releases/download/v0.3.4/t-meter-x86_64-apple-darwin.tar.gz"
+  sha256 "5e1572b2ee25d31e753f3697c016f45134df6d650f2a9c47364b2cbea1a4aeda"
+  version "0.3.4"
   license "MIT"
 
   def install
